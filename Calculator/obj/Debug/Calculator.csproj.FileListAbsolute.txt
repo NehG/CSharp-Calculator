@@ -1,0 +1,12 @@
+C:\Users\Home\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\Home\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\Home\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\Home\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.exe.CodeAnalysisLog.xml
+C:\Users\Home\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.exe.lastcodeanalysissucceeded
+C:\Users\Home\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.Calculator.resources
+C:\Users\Home\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\Home\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.ViewHistory.resources
+C:\Users\Home\source\repos\Assignment2\Assignment2\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\Assignment2\Assignment2\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\Home\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
